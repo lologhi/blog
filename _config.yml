@@ -1,0 +1,15 @@
+title:       Blog
+name:        Blog
+email:       laurent@ghirardotti.fr
+author:      Laurent Ghirardotti
+url:         https://blog.ghirardotti.fr
+description: Migration du Tumblr
+
+theme: jekyll-theme-hacker
+
+paginate: 4
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  
